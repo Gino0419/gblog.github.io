@@ -100,3 +100,13 @@ p{
 .post-container:nth-child(even){
   background-color: #f2f2f2;
 }
+.big-video{
+  margin: 20px;
+}
+.description > h2{
+  color: #1bbc9b;
+}
+.description > p{
+  margin: 0px;
+  padding: 0px;
+}
